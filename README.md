@@ -26,3 +26,7 @@
 - Support visual merchandising and store presentation.
 - Participate in hiring and employee development.
 - Help resolve customer concerns and support team performance.
+
+## GitHub Statistics
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrouth&show_icons=true)
