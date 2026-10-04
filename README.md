@@ -29,4 +29,4 @@
 
 ## GitHub Statistics
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrouth&show_icons=true)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=atrouth&show_icons=true)
